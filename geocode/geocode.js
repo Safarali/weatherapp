@@ -18,7 +18,7 @@ let geocodeAddress = (address, cb) => {
             })
         }
     });
-}
+};
 
 module.exports = {
     geocodeAddress
